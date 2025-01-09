@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# files not for students
+*.pptx
+*old_ex
+*exam*
+*DS_Store*
+
 # Distribution / packaging
 .Python
 build/
@@ -24,9 +30,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-*.pptx
-*old_ex
-*exam*
+
 MANIFEST
 
 # PyInstaller
