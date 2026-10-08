@@ -458,6 +458,7 @@ def to_seconds(length):
     # TODO: if length is a string, split it on ":" and convert the pieces
     # with int(...). Otherwise, return it unchanged.
     # Hint: type(length) == str   tells you whether it's a string.
+    # Hint: length.split
     pass
 
 
