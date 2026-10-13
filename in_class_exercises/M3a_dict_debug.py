@@ -39,7 +39,8 @@ def contributions_by_campaign(contributions):
     rv = {}
     for contribution in contributions:
         campaign = contribution["campaign"]
-        rv.get(campaign, []).append(contribution)
+        print(contribution)
+        #rv.get(campaign, []).append(contribution)
     return rv
 
 

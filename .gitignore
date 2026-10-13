@@ -1,2 +1,12 @@
-*solutions*
+
 lesson_plans/
+*pptx
+
+*DS_Store*
+
+*.pytest_cache/
+
+*class_examples/
+*exams
+
+*_pycache__*
