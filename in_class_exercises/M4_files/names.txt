@@ -1,0 +1,152 @@
+Buildings Directory
+Abbreviation
+
+Building Name and Address
+1155	1155 E 60th St
+ A	 Anatomy Building, 1025 E 57th St.
+ AB	 Abbott Memorial Hall, 947-51 E. 58th St.
+ ACC	 Accelerator Building, 5604-20 S. Ellis Ave.
+ AH	 Argonne Cancer Research Hospital, See FMI
+ ALAB	 W.C. Allee Laboratory of Animal Behavior, 940 E. 57th St.
+ AMB	 Albert Merritt Billings Hospital, 5841 S. Maryland Ave.
+ ANL	 Argonne National Laboratory, 9700 S. Cass Ave., Argonne, IL 60439
+ ARR	 To be arranged; contact department or see notes for meeting information
+ ART INT	 Art Institute of Chicago, 111 S. Michigan Ave. (60603)
+ B455	 Booth 455, 455 N Cityfront Plaza Drive
+ BG	 Bartlett Commons, 5640 S. University Ave.
+ BH A	 Billings, Central Corridor, 5841 S. Maryland Ave.
+ BH E	 Billings, East Wing (Armour Clinical Research Building)
+ BH H	 Billings, Goldblatt Pavilion
+ BH M	 Billings, Medical Corridor
+ BH N	 Billings, North Wing
+ BH O	 Billings, Orthopedic Corridor
+ BH P	 Billings, Pathology Wing
+ BH Q	 Billings, Magnetic Resonance Imaging Corridor
+ BH S	 Billings, Surgery Corridor
+ BH W	 Billings, West Wing
+ BSLC	 Biological Sciences Learning Center, 924 E. 57th St.
+ B-J	 Burton-Judson Courts, 1005 E. 60th St.
+ BL	 Emmons Blaine Hall, 1362 E. 59th St.
+ BMI	 Ben May Institute, 950 E. 59th St.
+ BPSB	 Bio-Psychological Research Building, 940 E. 57th Street
+ BRH	 Bob Roberts Institute, 920 E. 59th St.
+ C	 Cobb Lecture Hall, 5811-27 S. Ellis Ave.
+ CAF	 A.J. Carlson Animal Research Facility, 950 E. 59th St.
+ CH	 Culver Hall, 1025 E. 57th St.
+ CHAP	 Chapin Hall, 1313 E. 60th St.
+ CL	 Classics Building-Hiram Kelly Memorial, 1010 E. 59th St.
+ CLI	 Chicago Lying-In Hospital, 5815 S. Maryland Ave.
+ CLSC	 Cummings Life Science Center, 920 E. 58th St.
+ CNRC	 Campus North Residential Commons, 5500 South University Avenue
+ CTS	 Chicago Theological Seminary, 1407 E. 60th Street
+ CWAC	 Cochrane-Woods Art Center, 5540 S. Greenwood Ave.
+ DASM	 David and Alfred Smart Museum, 5550 S. Greenwood Ave.
+ DCAM	
+ Duchossois Center for Advanced Medicine, 5758 S Maryland Ave.
+
+ DDH	 Dora De Lee Hall, CLI, 5841 S. Maryland Ave.
+ DRF	 David Rubenstein Forum, 1201 E 60th St
+ E	 Eckhart Hall, 1118-32 E. 58th St.
+ EBC	 Ida B. and Walter Erman Biology Center, 1103 E. 57th St.
+ ED	 Edelstone Center, 6030 S. Ellis Ave.
+ EHN	 Northshore University Health System, 2650 Ridge Ave., Evanston, IL 60201
+ ERC	 William Eckhardt Research Center, 5640 South Ellis Avenue Chicago
+ ERL	 Eye Research Laboratories, 939 E. 57th St.
+ F	 Foster Hall, 1130 E. 59th St.
+ FMI	 Franklin McLean Memorial Research Institute, 5841 S. Maryland Ave.
+ FMNH	 Field Museum of Natural History, 1400 S. Lake Shore Dr. (60605)
+ G-B	 Gates-Blake Halls, 5845 S. Ellis Ave.
+ GHJ	 George Herbert Jones Laboratory, 5747 S. Ellis Ave.
+ GC	 Gleacher Center, 450 N. Cityfront Plaza Drive (60611)
+ GCIS	 Gordon Center for Integrative Science, 929 E. 57th St.
+ GMH	 Nathan Goldblatt Memorial Hospital, 5841 S. Maryland Ave.
+ GO H	 Goodspeed Hall, 1010 E. 59th St
+ GSRP	 Ctrs for Gender Studies and Race, Politics, & Culture, 5733 S. University Ave.
+ H	 Haskell Hall, 5836-46 S. Greenwood Ave.
+ HC	 The University of Chicago Booth School of Business Charles M. Harper Center, 5807 S. Woodlawn Ave.
+ HCFH	 Henry Crown Field House, 5550 S. University Ave.
+ HEP	 High Energy Physics, 935 E. 56th St.
+ HF	 Hoffman House, 5740-50 S. Woodlawn Ave.
+ HGS	 Henry Hinds Laboratory for the Geophysical Sciences, 5734 S. Ellis Ave.
+ HHB	 Henry Holmes Belfield Hall, 5815-23 S. Kimbark Ave.
+ HHMI	 Howard Hughes Medical Institute, 5841 S. Maryland Ave.
+ HM	 William Rainey Harper Memorial Library, 1116 E. 59th St.
+ ICR	 Institute for Computer Research, 5630 S. Ellis Ave.
+ IFK	 Institute on the Formation of Knowledge, 5737 S. University Ave.
+ ING	 Ingleside Hall, 956-60 E. 58th St.
+ INH	 Ida Noyes Hall, 1212 E. 59th St.
+ INT	 International House, 1414 E. 59th St.
+ J	 Charles Hubbard Judd Hall, 5835 S. Kimbark Ave.
+ JCL	 John Crerar Library, 5730 S. Ellis Ave.
+ JRL	 Joseph Regenstein Library, 1100 E. 57th St.
+ K	 Kent Chemical Laboratory, 1020 E. 58th St.
+ KCBD	 Knapp Center for Biomedical Discovery, 900 E. 57th St.
+ KPTC	 Kersten Physics Teaching Center, 5720 S. Ellis Ave.
+ L	 Lillie House, 5801 S. Kenwood Ave.
+ LBQ	 Laird Bell Quadrangle, 1111 E. 60th St.
+ LC	 Reva and David Logan Center for the Arts, 915 E. 60th St.
+ LCT	 Logan Center Tent, 915 E. 60th St.
+ LGH	 Lutheran General Hospital, 1775 Dempster St., Park Ridge, IL 60068
+ LH	 Levi Hall, 5801 S. Ellis Ave.
+ LARA	 La Rabida Children’s Hospital & Research Center, E. 65th St. at Lake Michigan
+ M	 Midway Studios, 929 E. 60th St.
+ MARP	 Mother’s Aid Research Pavilion, CLI, 5815 S. Maryland Ave.
+ MH	 Bernard Mitchell Hospital, 5815 S. Maryland Ave.
+ MG	 McGiffert House, 5751 South Woodlawn Ave.
+ MKL	 Marjorie B. Kovler Viral Oncology Laboratories, 910 E. 58th St.
+ M/L	 Meadville/Lombard Theological School, 5701 S. Woodlawn Ave.
+ MRH	 Michael Reese Hospital, 2929 S. Ellis Ave.
+ MS	 MS  Math-Stat Building, 5727 S. University Ave.
+ MSI	 Museum of Science and Industry, 5700 S. Lake Shore Drive
+ NBL	 Newberry Library, 60 W. Walton St. (60610)
+ NORC	 National Opinion Research Center, 1155 E. 60th St.
+ OFF	 Off Campus.  Contact department or see notes for meeting information.
+ OL	 Olin Center, Foster 505, 1130 E. 59th St.
+ OR	Institute for the Study of Ancient Cultures, 1155 E. 58th St.
+ OSC	 Ogburn/Stouffer Center for the Study of Population & Social Organization, 1155 E. 60th St.
+ P	 Albert Pick Hall for International Studies, 5828 S. University Ave.
+ PLA	 University Press Business Office, 11030 S. Langley Ave.
+ PR	 Press Building, 1427 E. 60th St.
+ PSY B	 Psychology Beecher Hall, 5848 S. University
+ PSY G	 Psychology Green Hall, 5848 S. University
+ PSY K	 Psychology, Kelly Hall, 5848 S. University
+ Q	 Quadrangle Club, 1155 E. 57th St.
+ RAC	 Gerald Ratner Athletic Center, 5530 S. Ellis Ave.
+ RC	 Reynolds Club, 5706 S. University Ave.
+ RH	 Robie House, 5757 S. Woodlawn Ave.
+ RI A	 Research Institute-Annex, 940 E. 57th St.
+ RI L	 Research Institute, Low Temperature Laboratories, 5641 S. Ingleside Ave.
+ RMC	 Rockefeller Memorial Chapel, 5850 S. Woodlawn Ave.
+ RO	 Rosenwald Hall, 1101-11 E. 58th St.
+ RU	 Arthur Rubloff Intensive Care Tower, 5841 S. Maryland Ave.
+ RY	 Ryerson Physical Laboratory, 1100-14 E. 58th St.
+ S	 Swift Hall, 1025-35 E. 58th St.
+ SBRI	 Surgery Brain Research Institutes, 5812 S. Ellis Ave.
+ SCL	 Searle Chemistry Laboratory, 5735 S. Ellis Ave.
+ SHFE	 Saieh Hall for Economics, 5757 S. University Ave.
+ SS	 Social Sciences Research Building, 1126 E. 59th St.
+ SSA	 Abbott Hall, 969 E. 60th St.
+ SSC	 Social Services Center, 950 E. 61st St.
+ STU	 Harold Leonard Stuart Hall, 5835 S. Greenwood Ave.
+ TAAC	 Temporary Astronomy & Astro Physics Center, 5607 S. Drexel Ave.
+ TH	 Lorado Taft House, 935 E. 60th St.
+ TTI	 Toyota Technical Institute at Chicago, 6045 S. Kenwood Ave.
+ UCH	 University of Chicago Hospitals and Clinics
+ UH	 University High School, 5840 S. Kenwood Ave.
+ W	 Walker Museum, 1115-25 E. 58th St.
+ WMH	 Louis A. Weiss Memorial Hospital, 4646 N. Marine Dr., Chicago
+ WB	 Wieboldt Hall, 1050 E 59th St.
+ WBH	 William Benton House, 5737 S. University Ave.
+ WCH	 Silvain & Arma Wyler Children’s Hospital, 5841 S. Maryland Ave.
+ WH	 Whitman Laboratory, 915 E. 57th St.
+ WMC	 Woodlawn Maternal & Child Health Center, 950 E. 61st St.
+ WR	 Wilder House, 5811 S. Kenwood Ave.
+ Y	 Young Memorial Building, 5555 S. Ellis Ave.
+ Z	 Zoology Building, 1101 E. 57th St.
+
+
+ ZDC	 Walter Zoller Memorial Dental Clinic, 5841 S. Maryland Ave.
+
+
+
+From https://registrar.uchicago.edu/faculty-staff/classroom-scheduling/buildings-directory-2/
