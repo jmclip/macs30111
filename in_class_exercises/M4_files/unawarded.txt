@@ -1,0 +1,19 @@
+1914: Literature
+1914: Peace
+1915: Peace
+1915: Physiology or Medicine
+1916: Chemistry
+1916: Peace
+1916: Physics
+1916: Physiology or Medicine
+1917: Chemistry
+1917: Physiology or Medicine
+1918: Literature
+1918: Peace
+1918: Physiology or Medicine
+1919: Chemistry
+1921: Physiology or Medicine
+1923: Peace
+1924: Chemistry
+1924: Peace
+1925: Physiology or Medicine

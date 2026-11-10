@@ -10,3 +10,7 @@ lesson_plans/
 *exams
 
 *_pycache__*
+
+*claude*
+
+old*in_class_exercises/M7_pandas/data/*.csv
